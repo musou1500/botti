@@ -1,0 +1,16 @@
+{
+  "apiKey" : "YOUR_API_KEY_HERE",
+  "botParams" : {
+    "nickname": "光",
+    "nickname_y": "ヒカリ",
+    "sex": "女",
+    "bloodtype": "B",
+    "birthdateY": "1997",
+    "birthdateM": "5",
+    "birthdateD": "30",
+    "age": "16",
+    "constellations": "双子座",
+    "place": "東京",
+    "t":20
+  }
+}
